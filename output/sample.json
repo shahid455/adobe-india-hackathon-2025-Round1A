@@ -1,0 +1,740 @@
+{
+  "title": "Grade / Mark",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Grade / Mark",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Failed Courses",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Absent Details",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Malpractice Details",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Grade / Mark Obtained",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Semester",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Month / Year",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Code",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Credit",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Grade",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21LEH101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "COMMUNICATIVE ENGLISH",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21MAB101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CALCULUS AND LINEAR ALGEBRA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSS101J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PROGRAMMING FOR PROBLEM SOLVING",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21EES101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21PYB102J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SEMICONDUCTOR PHYSICS AND",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "COMPUTATIONAL METHODS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CYM101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ENVIRONMENTAL SCIENCE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21LEM101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CONSTITUTION OF INDIA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21PDM101L",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PROFESSIONAL SKILLS AND PRACTICES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DEC/2023",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21MES102L",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ENGINEERING GRAPHICS AND DESIGN",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SGPA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "8.864",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21LEH103T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FRENCH",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21MAB102T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ADVANCED CALCULUS AND COMPLEX",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ANALYSIS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21BTB102T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION TO COMPUTATIONAL BIOLOGY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSC101T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "OBJECT ORIENTED DESIGN AND",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PROGRAMMING",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CYB101J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "CHEMISTRY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21GNH101J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PHILOSOPHY OF ENGINEERING",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21GNM102L",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NATIONAL SERVICE SCHEME",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21PDM102L",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "GENERAL APTITUDE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "B+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21MES101L",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "BASIC CIVIL AND MECHANICAL WORKSHOP",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SGPA",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "9.333",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21MAB206T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NUMERICAL METHODS AND ANALYSIS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSC201J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DATA STRUCTURES AND ALGORITHMS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSC202J",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "OPERATING SYSTEMS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSC203P",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ADVANCED PROGRAMMING PRACTICE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A+",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21CSS201T",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "COMPUTER ORGANIZATION AND",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ARCHITECTURE",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "21DCS201P",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "DESIGN THINKING AND METHODOLOGY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "View Grade Details",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21DCS201P",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "DESIGN THINKING AND METHODOLOGY",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Semester",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Month / Year",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Code",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Description",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Credit",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Grade",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "NOV/2024",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21LEM201T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PROFESSIONAL ETHICS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "SGPA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "9.826",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21MAB204T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PROBABILITY AND QUEUEING THEORY",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21CSC204J",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "DESIGN AND ANALYSIS OF ALGORITHMS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21CSC205P",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "DATABASE MANAGEMENT SYSTEMS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21CSC206T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "ARTIFICIAL INTELLIGENCE",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21CSE281T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CRYPTOGRAPHY AND NETWORK SECURITY",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21PDH209T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "SOCIAL ENGINEERING",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "MAY/2025",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "21LEM202T",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "UNIVERSAL HUMAN VALUES - II:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "UNDERSTANDING HARMONY AND ETHICAL",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "HUMAN CONDUCT",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "SGPA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "9.600",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CGPA",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "9.41",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Credit Details",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Credits Registered",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "89",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Credits Earned",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "89",
+      "page": 2
+    }
+  ]
+}
