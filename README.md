@@ -157,5 +157,5 @@ Install manually (if not using Docker):
 pip install -r requirements.txt
 ```
 ### 🧑‍💻 Author
-Shahidul Hasan
-Deepta Chakravarty
+- Shahidul Hasan
+- Deepta Chakravarty
