@@ -158,3 +158,4 @@ pip install -r requirements.txt
 ```
 ### 🧑‍💻 Author
 Shahidul Hasan
+Deepta Chakravarty
